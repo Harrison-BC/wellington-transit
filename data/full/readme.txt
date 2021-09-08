@@ -1,9 +1,9 @@
-nz-coastlines-and-islands-LINZ.json file sourced from https://data.nationalmap.co.nz/layer/36572-island/ as collection of Shape files. This was then converted to a JSON file using the website: https://mapshaper.org/
+nz-coastlines-and-islands-LINZ.json file sourced from LINZ as collection of Shape files. This was then converted to a JSON file using the website: https://mapshaper.org/
 
-<b>Greater Wellington Regional Council</b>
+Sourced from Greater Wellington Regional Council:
 wellington_roads.txt
 
-<b>Metlink</b>
+Sourced from Metlink:
 route_shapes.txt
 routes.txt
 stop_pattern_trips.txt
